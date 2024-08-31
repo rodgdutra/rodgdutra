@@ -19,7 +19,7 @@ or use it.
 <!-- BLOG-POST-LIST:START -->
 - [Transformer networks applied at time series: In-depth analysis of and visualization of the transformer attention](https://github.com/rodgdutra/neural_kaggle_store_item)
 - [Transformer networks applied in non-intrusive energy power disagregation](https://github.com/rodgdutra/transformer-non-intrusive-power-disaggregation/blob/master/transformer_disaggregation_ex1.ipynb)
-- [Simple ASR from scratch using transformers](https://github.com/rodgdutra/ASR_transformer/blob/main/asr_transformer.ipynb)
+- [Simple ASR from scratch using transformers](https://github.com/rodgdutra/ASR_transformer)
 - [BERT for sentiment analysis](https://github.com/rodgdutra/transformer-sentiment-analysis)
 
 #### PT-BR only posts
