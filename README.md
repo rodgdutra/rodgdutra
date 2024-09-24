@@ -17,6 +17,7 @@ or use it.
 
 ### 📕 Latest github posts
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging LLMs for Restaurant Solutions: A Case of Study](https://github.com/rodgdutra/LLMs_for_restaurant_case/tree/main)
 - [Transformer networks applied at time series: In-depth analysis of and visualization of the transformer attention](https://github.com/rodgdutra/neural_kaggle_store_item)
 <!-- BLOG-POST-LIST:START
 - [Transformer networks applied in non-intrusive energy power disagregation](https://github.com/rodgdutra/transformer-non-intrusive-power-disaggregation/blob/master/transformer_disaggregation_ex1.ipynb)  -->
